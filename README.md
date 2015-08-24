@@ -10,6 +10,7 @@ $ git config --global alias.ci commit
 $ git config --global alias.st status
 
 New one:
+
 $ git config --global alias.hist "log --oneline --decorate --all"
 
 
