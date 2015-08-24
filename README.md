@@ -1,5 +1,8 @@
 # Git
 
+Resource: https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell
+
+
 Possibly existing:
 $ git config --global alias.co checkout
 $ git config --global alias.br branch
