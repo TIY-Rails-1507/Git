@@ -12,7 +12,7 @@ Possibly existing:
 
 New one:
 
-$ git config --global alias.hist "log --oneline --decorate --all"
+$ git config --global alias.hist "log --oneline --decorate --graph --all"
 
 
 Time for branching madness!!! 
